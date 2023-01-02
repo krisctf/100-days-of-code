@@ -2,7 +2,7 @@
 ## Instructors: Angela Yu, FreeCodeCamp
 ## Resources: in resources.md file
 
-### Day 1: December 17, Saturday
+### Day 1: January 3, Tuesday
 
 **Today's Progress**: fill
 
